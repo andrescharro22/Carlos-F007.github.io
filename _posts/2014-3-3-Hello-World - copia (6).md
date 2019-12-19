@@ -4,7 +4,7 @@ title: Proceso del software
 ---
 
 
-Un conjunto estructurado de acBvidades necesarias para
+Un conjunto estructurado de actvidades necesarias para
 desarrollar un sistema de software.
 
 Muchos de los procesos de soIware son diferentes, pero todos
