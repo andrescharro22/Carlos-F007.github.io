@@ -48,26 +48,26 @@ software adolecía de:
 soIware", que históricamente se generó en los siguientes
 pasos:
 
-ì Primera Fase. Los albores (1945-1955)
+.Primera Fase. Los albores (1945-1955)
 ì Programar no es una tarea diferenciada del diseño de una
 máquina.
 ì Uso de lenguaje máquina y ensamblador.
 
-ì Segunda Fase. El florecimiento (1955-1965)
+.Segunda Fase. El florecimiento (1955-1965)
 ì Aparecen mulBtud de lenguajes
 Se pensaba que era posible hacer casi todo.
 
-ì Tercera Fase. La crisis (1965-1970)
+.Tercera Fase. La crisis (1965-1970)
 ì Desarrollo inacabable de grandes programas
 Ineficiencia, errores, coste impredecible
 ì Nada es posible.
 
-ì Cuarta Fase. Innovación conceptual (1970-1980)
+.Cuarta Fase. Innovación conceptual (1970-1980)
 ì Fundamentos de programación
 ì Verificación de programas
 ì Metodologías de diseño.
 
-ì Quinta Fase. El diseño es el problema (1980-?)
+.Quinta Fase. El diseño es el problema (1980-?)
 ì Entornos de programación
 ì Especificación formal
 ì Programación automática.
@@ -97,3 +97,31 @@ punto crucial, sólo una lenta evolución.
 muchos años, lo cual parece una contradicción para el término.
 Lo que si se podría decir es que hay un problema crónico en el
 desarrollo de software.
+
+
+El software en la actualidad
+--
+
+ì Las direcciones en las que evoluciona la ingeniería del software
+hoy en día pueden agruparse de la siguiente manera:
+
+ì Metodologías ágiles: métodos de desarrollo de software
+basados en procesos iterativos e incrementales, donde los
+requisitos y soluciones evolucionan durante la colaboración.
+
+Metodologías como Scrum (1995), Extreme Programming
+(1999) o DSDM (1995) fueron evolucionando hasta que en
+Febrero del 2001 se publicó “Manifesto for Agile Software
+Development” para definir la aproximación ahora conocida
+como 
+
+.Experimentación: es una rama de la ingeniería del software
+interesada en realizar experimentos sobre software, recolectar
+datos y deducir leyes y teorías de los mismos.
+
+.Desarrollo dirigido por modelos: primero se desarrollan
+modelos textuales gráficos del software a construir, y
+posteriormente se construye el software.
+
+.Líneas de productos software, en lugar de productos
+individuales.
