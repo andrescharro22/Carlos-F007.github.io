@@ -80,3 +80,20 @@ para denominar la dinámica de crecimiento del software.
 del software es “todas las actividades de programación que se
 orientan a generar una nueva versión de un software a partir de
 una versión anterior operativa.
+
+
+La crisis del software
+--
+
+ì ¿Cómo se define crisis?
+--
+
+ì La palabra crisis se define en el diccionario como "un punto
+decisivo en el curso de algo; momento, etapa, o evento decisivo
+o crucial". Sin embargo para el software no ha habido ningún
+punto crucial, sólo una lenta evolución.
+
+ì La crisis en la industria del software permanece durante
+muchos años, lo cual parece una contradicción para el término.
+Lo que si se podría decir es que hay un problema crónico en el
+desarrollo de software.
