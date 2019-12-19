@@ -7,7 +7,7 @@ title: Fundamentos a la ingeniería en software
 
 >>Fundamentos a la Ingeniería de Software (IS)
 
->>Definición de IS
+>Definición de IS
 
 
 Fritz Bauer, 1969: Más que una disciplina o una parte del
