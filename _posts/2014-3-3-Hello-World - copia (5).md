@@ -97,7 +97,7 @@ existen y qué criterios de validación se necesitan para definir un
 sistema correcto
 
 
-Fase de definición
+Fase de desarrollo
 --
 
 • Existe un paso complementario: la planificación del proyecto
@@ -110,9 +110,6 @@ soIware:
 • Se planifican las tareas y el trabajo
 
 
-Fase de desarrollo
---
-
 • Fase orientada al CÓMO
 
 • El primer paso de esta fase corresponde al Diseño del SoIware
@@ -124,4 +121,26 @@ construcción Åsica de dicho soIware.
 
 • Los otros dos pasos de la fase de desarrollo corresponden a la
 Codificación y a la Prueba del SoOware
+
+
+Fase de mantenimiento
+--
+
+• Mantenimiento correcBvo
+
+• Corrección de errores
+
+• Mantenimiento adaptaBvo
+
+• Adaptaciones requeridas por la evolución del entorno del soIware
+
+• Mantenimiento perfecBvo
+
+• Las modificaciones debidas a los cambios de requisitos del usuario
+para mejorar el sistema
+
+• Mantenimiento prevenBvo
+
+• Mejora de las caracterísBcas internas del producto para hacer más
+mantenible
 
