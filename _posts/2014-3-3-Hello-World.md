@@ -21,3 +21,56 @@ IEEE 1993: La Ingeniería de Software es la aplicación de un enfoque sistemáti
 
 La Ingeniería del Software es el establecimiento y uso de principios robustos de la ingeniería a fin de obtener económicamente so=ware que sea fiable y que funcione eficientemente sobre maquinas reales.
 
+
+Origen de IS 
+--
+
+ì Su origen se debió a que el entorno de desarrollo de sistemas
+software adolecía de:
+
+ì Retrasos considerables en la planificación
+
+ì Poca productividad
+
+ì Elevadas cargas de mantenimiento
+
+ì Demandas cada vez más desfasadas frente a las ofertas
+
+ì Baja calidad y fiabilidad del producto
+
+ì Dependencia de los realizadores
+
+ì Esto es lo que se ha denominado habitualmente "crisis del
+soIware", que históricamente se generó en los siguientes
+pasos:
+
+ì Primera Fase. Los albores (1945-1955)
+ì Programar no es una tarea diferenciada del diseño de una
+máquina.
+ì Uso de lenguaje máquina y ensamblador.
+
+ì Segunda Fase. El florecimiento (1955-1965)
+ì Aparecen mulBtud de lenguajes
+Se pensaba que era posible hacer casi todo.
+
+ì Tercera Fase. La crisis (1965-1970)
+ì Desarrollo inacabable de grandes programas
+Ineficiencia, errores, coste impredecible
+ì Nada es posible.
+
+ì Cuarta Fase. Innovación conceptual (1970-1980)
+ì Fundamentos de programación
+ì Verificación de programas
+ì Metodologías de diseño.
+
+ì Quinta Fase. El diseño es el problema (1980-?)
+ì Entornos de programación
+ì Especificación formal
+ì Programación automática.
+
+El término “evolución” del software se utiliza desde los sesenta
+para denominar la dinámica de crecimiento del software.
+ì Una definición atribuida a Lehman y Ramil dice que la evolución
+del software es “todas las actividades de programación que se
+orientan a generar una nueva versión de un software a partir de
+una versión anterior operativa.
