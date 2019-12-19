@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Biografía Profesional
+title: Fundamentos a la ingeniería en software
 ---
 
-Carlos Josué Fariño Rosas, nació el 14 de septiembre del año 2000
