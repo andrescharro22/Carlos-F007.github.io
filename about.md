@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biografía
+title: About
 permalink: /about/
 ---
 
