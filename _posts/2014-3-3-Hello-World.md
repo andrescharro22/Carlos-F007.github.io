@@ -22,6 +22,8 @@ IEEE 1993: La Ingeniería de Software es la aplicación de un enfoque sistemáti
 La Ingeniería del Software es el establecimiento y uso de principios robustos de la ingeniería a fin de obtener económicamente so=ware que sea fiable y que funcione eficientemente sobre maquinas reales.
 
 
+
+
 Origen de IS 
 --
 
@@ -39,6 +41,8 @@ software adolecía de:
 ì Baja calidad y fiabilidad del producto
 
 ì Dependencia de los realizadores
+
+
 
 ì Esto es lo que se ha denominado habitualmente "crisis del
 soIware", que históricamente se generó en los siguientes
@@ -67,6 +71,8 @@ Ineficiencia, errores, coste impredecible
 ì Entornos de programación
 ì Especificación formal
 ì Programación automática.
+
+
 
 El término “evolución” del software se utiliza desde los sesenta
 para denominar la dinámica de crecimiento del software.
