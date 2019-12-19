@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Biografía
-permalink: /about/
+permalink: /Biografía/
 ---
 
 Some information about you!
