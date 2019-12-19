@@ -85,7 +85,7 @@ una versión anterior operativa.
 La crisis del software
 --
 
-ì ¿Cómo se define crisis?
+¿Cómo se define crisis?
 --
 
 ì La palabra crisis se define en el diccionario como "un punto
