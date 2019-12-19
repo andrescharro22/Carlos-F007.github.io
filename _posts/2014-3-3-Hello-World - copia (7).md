@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sistemas de imformación
+title: Sistemas de información
 ---
 
 
