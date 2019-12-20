@@ -32,9 +32,7 @@ es que en la ciudad no es tan peligrosa. Si hay gente  a la que le puedes pedir 
 
 También e ido a muchos lugares donde puedo encontrar comidas en ocaciones muy barata y muy buena, en otras ocaciones, muy baratas y malas, y otro sin fin de cualidades, pero lo que e dicho este ultimo tiempo en mi estancia aquí es que no debo morirme de hambre, asi que comer lo que haya, ademá no puedo pedir mucho por un dolar. 
 
-Y entre lo más peculiar que me ha pasado es que recivo clase en muchos cursos cuando lo normal sería en uno o maximo dos, pero yo estoy en cinco cursos diferentes, lo que no me ha hecho tener una buena comunicación con mis compañeros,  osea de entamblar amistad ya que hay veces que solo los veo una vez a la semana en ocaciónes, y si así nomas me cuesta hacer amigos, imagínensen solo verlos por dos a tres veces a la semana. Además que trato de poner cien por ciento atención a clases así que sumale todos esos factores, bueno tampoco es que no hable con nadie.
-
-Desde el pre pensaba que ya no iba a hecer amigos, pero saben a estas alturas me doy cuenta que no necesito estar con gente que o comparta los mismos intereses que uno, así que prefiero contar con poca gente, pero tampóco es que sea un antisocial.
+Y entre lo más peculiar que me ha pasado es que recivo clase en muchos cursos cuando lo normal sería en uno o maximo dos, pero yo estoy en cinco cursos diferentes, lo que no me ha hecho tener una buena comunicación con mis compañeros,  osea de entamblar amistad ya que hay veces que solo los veo una vez a la semana en ocaciónes, y si así nomas me cuesta hacer amigos, imagínensen solo verlos por dos a tres veces a la semana. 
 
 
 Algo más
