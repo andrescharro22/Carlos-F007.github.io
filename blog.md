@@ -32,10 +32,3 @@ es que en la ciudad no es tan peligrosa. Si hay gente  a la que le puedes pedir 
 También e ido a muchos lugares donde puedo encontrar comidas en ocaciones muy barata y muy buena, en otras ocaciones, muy baratas y malas, y otro sin fin de cualidades, pero lo que e dicho este ultimo tiempo en mi estancia aquí es que no debo morirme de hambre, asi que comer lo que haya, ademá no puedo pedir mucho por un dolar. 
 
 
-Algo más
---
-
-Cosas que no me agradó de este ultimo tiempo, es el largo trayecto que hago para asistir a clases, y que el maestro no se presente.
-También tener que comer todo el tiempo a fuera no siempre es tan bonito como esperamos.
-
-Para terminar quiero expresar que me gusto hacer esta página, aunque fué dificil, fué importantisimo por que aprendí nuevas cosas relacionadas con la programación.
