@@ -24,4 +24,11 @@ En la actualidad estoy contento con las decisiónes que e tomado, ahora aquí, e
 
 En la actualidad vivo en el cantón samborondón. En una casita sencilla pero donde nunca te faltará tranquilidad. Lo que espero de mi en el futuro es culminar la carrera con honores, y conseguir un empleo en el que me sienta agusto.
 
-De atemano te agradezco tu atención.
+Quiero hacer también emfasis en las cosas que e hecho como en el ambito profesional.
+
+Desde muy pequño me ha encantado dibujar, y ya me imaginaba a estas alturas estar metido más a fondo con el tema pero no me arrepiento de esto.
+Llegé a trabajar en la misma escuela comunitaria en la que estudíe, eso fue como tres años, de 2011 a 2014, mi etapa secundaria.
+
+Fuí dejando el gusto por el dibujo transcurriendo el tiempo, en la actualidsd la carrera que sigo es algo que me gusto desde colegio sobre todo cuando estaban todavía las especialidades. El gusto por los videojuegos me a hecho querer programar uno mismo, pero todavía estoy verde como dicen en la jerga popular.
+
+Y de antemano agradezco tu atención a la lectura de este texto, mi vida no ha sido un gran acontecimiento, pero si tiene algúnos momentos interesantes.
