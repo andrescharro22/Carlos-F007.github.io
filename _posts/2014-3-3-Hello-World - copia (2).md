@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modelos de procesos de software
+title: Tipos de modelos de procesos de software
 ---
 
 El modelo de cascada
