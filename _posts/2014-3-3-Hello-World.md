@@ -5,7 +5,7 @@ title: Fundamentos a la ingeniería en software
 
 
 
-DEFINICIÓN DE LA (IS)
+ESTUDIOS 
 -
 
 Empecé mis estudios en la primaria en la escuela "Santo Tomás de Aquino"en donde culminé ahí mismo. Luego continué la secundaria en la Unidad Educativa "Carlos Estarellas Avilés", la cual considero que fue una de las mejores etapas de mi vida escolar ya que conocí a muchas personas importantes en mi vida, y que se convirtieron en mis verdaderos amigos.
