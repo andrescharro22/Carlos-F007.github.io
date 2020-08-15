@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Estudios
+title: Blog
 permalink: /blog/
 ---
 
