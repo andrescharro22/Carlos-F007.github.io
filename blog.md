@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Estudios
-permalink: /estudios/
+permalink: /blog/
 ---
 
 Experiencias personales
