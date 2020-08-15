@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Biografía
-permalink: / Biografía /
+permalink: /biografía/
 ---
 
 
